@@ -1,0 +1,10 @@
+
+/* src/App.css */
+.sidebar {
+    transition: margin-left 0.5s;
+  }
+  
+  .sidebar-closed {
+    margin-left: -250px;
+  }
+  
